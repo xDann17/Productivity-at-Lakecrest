@@ -1,0 +1,7 @@
+FastAPI
+uvicorn
+sqlite3
+python-dotenv
+pydantic
+Jinja2
+requests
